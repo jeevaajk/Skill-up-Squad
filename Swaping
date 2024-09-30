@@ -1,0 +1,7 @@
+a=5
+b=6
+c=a
+a=b
+b=c 
+print("The Value after Swaping in a is ",a)
+print("The Value after swaping in b is ",b)
